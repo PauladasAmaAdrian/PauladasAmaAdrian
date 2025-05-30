@@ -4,7 +4,8 @@ Meu nome é Paulo Vinicius
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem  JavaScript
-- utilizo esse espaço para a organização e compartilhanmento dos meus projetos
+- U
+- tilizo esse espaço para a organização e compartilhanmento dos meus projetos
 
 ### Você pode entrar em contato comigo 📫
 
